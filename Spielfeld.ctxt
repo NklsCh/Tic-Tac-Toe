@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Spielfeld
+comment1.params=
+comment1.target=Spielfeld()
+comment2.params=
+comment2.target=void\ spielfeldLeeren()
+comment3.params=
+comment3.target=void\ spielfeldAusgeben()
+comment4.params=zeile\ spalte
+comment4.target=boolean\ istFeldBelegt(int,\ int)
+comment5.params=zeile\ spalte\ zeichen
+comment5.target=void\ feldSetzen(int,\ int,\ char)
+comment6.params=
+comment6.target=boolean\ istSpielfeldVoll()
+comment7.params=
+comment7.target=char\ pruefeAufGewinner()
+numComments=8

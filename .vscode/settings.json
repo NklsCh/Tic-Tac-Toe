@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\basisUTF8151026.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\junit.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\mysql-connector-java-5.1.48.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-core.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-core-javadoc.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-core-sources.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-device.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-device-javadoc.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-device-sources.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-example.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-example-javadoc.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-example-sources.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-gpio-extension.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-gpio-extension-javadoc.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-gpio-extension-sources.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-service.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-service-javadoc.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\pi4j-service-sources.jar",
+        "c:\\Users\\N.Choinowski\\OneDrive - Stadt Viersen Fachbereich 50 I Schule und Sport\\BlueJ-420-BasisBib-DB\\bluej\\lib\\userlib\\sqlite-jdbc-3.27.2.1.jar"
+    ]
+}
